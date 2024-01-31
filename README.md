@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashidkisejjere0784
-- 👀 I’m interested in python, java, c#, machine learning, node.js, php and website creation both backend and frontend but mainly interested in backend
-- 🌱 I’m currently learning machine learning and deep learning technologoies including tensorflow, pytorch, sklearn and also the hugging face transformers
+- 👀 I’m interested in Data Science i.e Data analytics, Machine Learning and Deep Learning. I am also good at Systems Development most especially the backend aspect of it.
+- 🌱 I’m very passionate about coding and am actively pushing my skills to higher limits.
 - 💞️ I’m looking to collaborate on any project relating my interests above
 - 📫 How to reach me use email rashidkisejjere0784@gmail.com
 
